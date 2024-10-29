@@ -21,6 +21,7 @@
 
     <ItemGroup>
       <Folder Include="Assets\Fonts\BebasNeueFont\" />
+      <Folder Include="Assets\Fonts\KanitFont\" />
       <Folder Include="Assets\Images\" />
       <Folder Include="Models\" />
     </ItemGroup>
