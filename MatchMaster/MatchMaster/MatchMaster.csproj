@@ -23,6 +23,7 @@
       <Folder Include="Assets\Fonts\BebasNeueFont\" />
       <Folder Include="Assets\Fonts\KanitFont\" />
       <Folder Include="Assets\Fonts\NewAmsterdamFont\" />
+      <Folder Include="Assets\Fonts\NunitoFont\" />
       <Folder Include="Assets\Images\" />
       <Folder Include="Models\" />
     </ItemGroup>
