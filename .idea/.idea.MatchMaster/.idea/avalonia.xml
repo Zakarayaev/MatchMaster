@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="MatchMaster/MatchMaster/App.axaml" value="MatchMaster/MatchMaster.Browser/MatchMaster.Browser.csproj" />
+        <entry key="MatchMaster/MatchMaster/Views/MainView.axaml" value="MatchMaster/MatchMaster.Browser/MatchMaster.Browser.csproj" />
+        <entry key="MatchMaster/MatchMaster/Views/MainWindow.axaml" value="MatchMaster/MatchMaster.Browser/MatchMaster.Browser.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
