@@ -15,8 +15,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18dfc329-6edd-4042-ad7b-625c8f1e7d86" name="Changes" comment="#">
+    <list default="true" id="18dfc329-6edd-4042-ad7b-625c8f1e7d86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/avalonia.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchMaster/MatchMaster/MatchMaster.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMaster/MatchMaster/MatchMaster.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MatchMaster/MatchMaster/Views/MainView.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMaster/MatchMaster/Views/MainView.axaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +46,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -141,7 +145,8 @@
       <workItem from="1730198283381" duration="181000" />
       <workItem from="1730198535703" duration="1397000" />
       <workItem from="1730201989304" duration="1890000" />
-      <workItem from="1730206125013" duration="1680000" />
+      <workItem from="1730206125013" duration="3710000" />
+      <workItem from="1730307598429" duration="1140000" />
     </task>
     <task id="LOCAL-00001" summary="#">
       <option name="closed" value="true" />
@@ -271,7 +276,31 @@
       <option name="project" value="LOCAL" />
       <updated>1730215884025</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added folder Controls in the Styles folder for located Avalonia Styles there">
+      <option name="closed" value="true" />
+      <created>1730217251559</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730217251559</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added Resources folder in the Styles directory for located  Avalonia Resource Dictionaries">
+      <option name="closed" value="true" />
+      <created>1730217308749</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730217308749</updated>
+    </task>
+    <task id="LOCAL-00019" summary="#">
+      <option name="closed" value="true" />
+      <created>1730217315943</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730217315943</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,6 +334,8 @@
     <MESSAGE value="Added files of Nunito font" />
     <MESSAGE value="Added files of Oswald font" />
     <MESSAGE value="Added Styles folder in the Assets directory" />
+    <MESSAGE value="Added folder Controls in the Styles folder for located Avalonia Styles there" />
+    <MESSAGE value="Added Resources folder in the Styles directory for located  Avalonia Resource Dictionaries" />
     <MESSAGE value="#" />
     <option name="LAST_COMMIT_MESSAGE" value="#" />
   </component>

@@ -4,7 +4,8 @@
     <option name="projectPerEditor">
       <map>
         <entry key="MatchMaster/MatchMaster/App.axaml" value="MatchMaster/MatchMaster.Browser/MatchMaster.Browser.csproj" />
-        <entry key="MatchMaster/MatchMaster/Views/MainView.axaml" value="MatchMaster/MatchMaster.Browser/MatchMaster.Browser.csproj" />
+        <entry key="MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" value="MatchMaster/MatchMaster.Browser/MatchMaster.Browser.csproj" />
+        <entry key="MatchMaster/MatchMaster/Views/MainView.axaml" value="MatchMaster/MatchMaster.Desktop/MatchMaster.Desktop.csproj" />
         <entry key="MatchMaster/MatchMaster/Views/MainWindow.axaml" value="MatchMaster/MatchMaster.Browser/MatchMaster.Browser.csproj" />
       </map>
     </option>
