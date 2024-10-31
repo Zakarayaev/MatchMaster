@@ -48,6 +48,23 @@
                     </Border>
                 </StackPanel>
             </Button>
+            
+            <Button Height="200" Width="200"
+                    CornerRadius="10">
+                <StackPanel HorizontalAlignment="Center"
+                            VerticalAlignment="Top"
+                            Margin="0, 10, 0, 0">
+                    <TextBlock Text="Football"
+                               TextAlignment="Center"
+                               FontFamily="{StaticResource NewAmsterdamFont}"
+                               FontSize="28"/>
+                    
+                    <Border Margin="0, -25, 0, 0">
+                        <Image Height="170" Width="170"
+                               Source="avares://MatchMaster/Assets/Images/football-logo-1.png"/>
+                    </Border>
+                </StackPanel>
+            </Button>
         </StackPanel>
     </ScrollViewer>
 </UserControl>
