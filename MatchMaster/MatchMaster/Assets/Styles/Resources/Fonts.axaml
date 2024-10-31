@@ -1,8 +1,8 @@
 ﻿<ResourceDictionary xmlns="https://github.com/avaloniaui"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <FontFamily x:Key="BebasNeueFont">avares://MatchMaster/Assets/Fonts/BebasNeueFont#Bebas Neue</FontFamily>
-    <FontFamily x:Key="KanitFont">avares://MatchMaster/Assets/Fonts/KanitFont#Kanit Font</FontFamily>
+    <FontFamily x:Key="KanitFont">avares://MatchMaster/Assets/Fonts/KanitFont#Kanit</FontFamily>
     <FontFamily x:Key="NewAmsterdamFont">avares://MatchMaster/Assets/Fonts/NewAmsterdamFont#New Amsterdam</FontFamily>
-    <FontFamily x:Key="NunitoFont">avares://MatchMaster/Assets/Fonts/NunitoFont#Nunito Font</FontFamily>
-    <FontFamily x:Key="OswaldFont">avares://MatchMaster/Assets/Fonts/OswaldFont#Oswald Font</FontFamily>
+    <FontFamily x:Key="NunitoFont">avares://MatchMaster/Assets/Fonts/NunitoFont#Nunito</FontFamily>
+    <FontFamily x:Key="OswaldFont">avares://MatchMaster/Assets/Fonts/OswaldFont#Oswald</FontFamily>
 </ResourceDictionary>
