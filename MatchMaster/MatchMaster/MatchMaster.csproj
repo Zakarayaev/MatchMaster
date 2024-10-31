@@ -22,7 +22,6 @@
     <ItemGroup>
       <Folder Include="Assets\Images\" />
       <Folder Include="Assets\Styles\Controls\" />
-      <Folder Include="Assets\Styles\Resources\" />
       <Folder Include="Models\" />
     </ItemGroup>
 
