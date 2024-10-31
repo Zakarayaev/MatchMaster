@@ -15,11 +15,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18dfc329-6edd-4042-ad7b-625c8f1e7d86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/avalonia.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatchMaster/MatchMaster/MatchMaster.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMaster/MatchMaster/MatchMaster.csproj" afterDir="false" />
+    <list default="true" id="18dfc329-6edd-4042-ad7b-625c8f1e7d86" name="Changes" comment="Connected Oswald font to the Fonts resources dictionary">
       <change beforePath="$PROJECT_DIR$/MatchMaster/MatchMaster/Views/MainView.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMaster/MatchMaster/Views/MainView.axaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +42,12 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
@@ -147,6 +149,7 @@
       <workItem from="1730201989304" duration="1890000" />
       <workItem from="1730206125013" duration="3710000" />
       <workItem from="1730307598429" duration="1140000" />
+      <workItem from="1730389950804" duration="510000" />
     </task>
     <task id="LOCAL-00001" summary="#">
       <option name="closed" value="true" />
@@ -300,7 +303,63 @@
       <option name="project" value="LOCAL" />
       <updated>1730217315943</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="#">
+      <option name="closed" value="true" />
+      <created>1730389979527</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730389979527</updated>
+    </task>
+    <task id="LOCAL-00021" summary="#">
+      <option name="closed" value="true" />
+      <created>1730389990263</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1730389990263</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Connected Bebas Neue font to the fonts resource dictionary">
+      <option name="closed" value="true" />
+      <created>1730390028397</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730390028397</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Connected Kanit font to the fonts resources dictionary">
+      <option name="closed" value="true" />
+      <created>1730390100569</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1730390100569</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Connected New Amsterdam font to the Fonts resources dictionary">
+      <option name="closed" value="true" />
+      <created>1730390189941</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1730390189942</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Connected Nunito Font to the Fonts resources dictionary">
+      <option name="closed" value="true" />
+      <created>1730390292363</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1730390292363</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Connected Oswald font to the Fonts resources dictionary">
+      <option name="closed" value="true" />
+      <created>1730390402025</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1730390402025</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +396,12 @@
     <MESSAGE value="Added folder Controls in the Styles folder for located Avalonia Styles there" />
     <MESSAGE value="Added Resources folder in the Styles directory for located  Avalonia Resource Dictionaries" />
     <MESSAGE value="#" />
-    <option name="LAST_COMMIT_MESSAGE" value="#" />
+    <MESSAGE value="Connected Bebas Neue font to the fonts resource dictionary" />
+    <MESSAGE value="Connected Kanit font to the fonts resources dictionary" />
+    <MESSAGE value="Connected New Amsterdam font to the Fonts resources dictionary" />
+    <MESSAGE value="Connected Nunito Font to the Fonts resources dictionary" />
+    <MESSAGE value="Connected Oswald font to the Fonts resources dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Connected Oswald font to the Fonts resources dictionary" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
