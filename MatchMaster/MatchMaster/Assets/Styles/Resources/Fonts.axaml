@@ -4,4 +4,5 @@
     <FontFamily x:Key="KanitFont">avares://MatchMaster/Assets/Fonts/KanitFont#Kanit Font</FontFamily>
     <FontFamily x:Key="NewAmsterdamFont">avares://MatchMaster/Assets/Fonts/NewAmsterdamFont#New Amsterdam</FontFamily>
     <FontFamily x:Key="NunitoFont">avares://MatchMaster/Assets/Fonts/NunitoFont#Nunito Font</FontFamily>
+    <FontFamily x:Key="OswaldFont">avares://MatchMaster/Assets/Fonts/OswaldFont#Oswald Font</FontFamily>
 </ResourceDictionary>
