@@ -22,7 +22,7 @@
     <ItemGroup>
       <Folder Include="Assets\Styles\Controls\" />
       <Folder Include="Models\" />
-      <Folder Include="PageManagement\" />
+      <Folder Include="NavigationSetup\" />
     </ItemGroup>
 
     <ItemGroup>
