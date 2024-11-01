@@ -43,7 +43,7 @@
                                FontSize="28"/>
                     
                     <Border Margin="0, -20, 0, 0">
-                        <Image Height="200" Width="200"
+                        <Image Height="180" Width="180"
                                Source="avares://MatchMaster/Assets/Images/wrestling-logo-1.png"/>
                     </Border>
                 </StackPanel>
@@ -60,7 +60,7 @@
                                FontSize="28"/>
                     
                     <Border Margin="0, -25, 0, 0">
-                        <Image Height="170" Width="170"
+                        <Image Height="200" Width="200"
                                Source="avares://MatchMaster/Assets/Images/football-logo-1.png"/>
                     </Border>
                 </StackPanel>
