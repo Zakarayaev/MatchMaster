@@ -15,7 +15,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18dfc329-6edd-4042-ad7b-625c8f1e7d86" name="Changes" comment="Added first button of UFC" />
+    <list default="true" id="18dfc329-6edd-4042-ad7b-625c8f1e7d86" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchMaster/MatchMaster/Views/MainView.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMaster/MatchMaster/Views/MainView.axaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +59,7 @@
     <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="InvalidFacetManager">
     <ignored-facets>
@@ -73,7 +77,9 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;.NET Project.MatchMaster.Browser.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.MatchMaster.Desktop.executor&quot;: &quot;Run&quot;,
+    &quot;Android.MatchMaster.Android.executor&quot;: &quot;Run&quot;,
     &quot;ResourceManagerPrefKey.ResourceType&quot;: &quot;DRAWABLE&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -154,7 +160,8 @@
       <workItem from="1730201989304" duration="1890000" />
       <workItem from="1730206125013" duration="3710000" />
       <workItem from="1730307598429" duration="1140000" />
-      <workItem from="1730389950804" duration="1408000" />
+      <workItem from="1730389950804" duration="3347000" />
+      <workItem from="1730467996174" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="#">
       <option name="closed" value="true" />
@@ -444,7 +451,55 @@
       <option name="project" value="LOCAL" />
       <updated>1730391356264</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Added first button for UFC">
+      <option name="closed" value="true" />
+      <created>1730391385439</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1730391385439</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Added first button for UFC">
+      <option name="closed" value="true" />
+      <created>1730391403757</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1730391403757</updated>
+    </task>
+    <task id="LOCAL-00039" summary="#">
+      <option name="closed" value="true" />
+      <created>1730391426066</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1730391426066</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Added second button for wrestling">
+      <option name="closed" value="true" />
+      <created>1730391645853</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1730391645853</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Added third button for football">
+      <option name="closed" value="true" />
+      <created>1730391809640</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1730391809640</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Added fourth button for basketball">
+      <option name="closed" value="true" />
+      <created>1730391949099</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1730391949099</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -465,10 +520,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Added folder in the Fonts directory for located Kanit font there" />
-    <MESSAGE value="Added folder called NewAmsterdamFont in the Fonts directory" />
-    <MESSAGE value="Added folder called NunitoFont in the Fonts directory" />
-    <MESSAGE value="Added OswaldFont folder in the Fonts directory" />
     <MESSAGE value="Added files of BebasNeue font" />
     <MESSAGE value="Added files of Kanit font" />
     <MESSAGE value="Added files of New Amsterdam font" />
@@ -488,9 +539,13 @@
     <MESSAGE value="Added wrestling logo" />
     <MESSAGE value="Added basketball logo" />
     <MESSAGE value="Added football logo" />
-    <MESSAGE value="#" />
     <MESSAGE value="Added first button of UFC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added first button of UFC" />
+    <MESSAGE value="Added first button for UFC" />
+    <MESSAGE value="#" />
+    <MESSAGE value="Added second button for wrestling" />
+    <MESSAGE value="Added third button for football" />
+    <MESSAGE value="Added fourth button for basketball" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added fourth button for basketball" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
