@@ -15,10 +15,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18dfc329-6edd-4042-ad7b-625c8f1e7d86" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MatchMaster/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MatchMaster/MatchMaster/Views/MainView.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/MatchMaster/MatchMaster/Views/MainView.axaml" afterDir="false" />
-    </list>
+    <list default="true" id="18dfc329-6edd-4042-ad7b-625c8f1e7d86" name="Changes" comment="Changed Height and Width of Wrestling and Football logos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,22 +40,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/App.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Assets/Styles/Resources/Fonts.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b05e24169690d63fc9a2c276fa26f457e9898b3d587ca0b01d2d412cc4d2c1b/ResourceDictionary.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/alimu/source/MatchMaster/MatchMaster/MatchMaster/Views/MainView.axaml" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="InvalidFacetManager">
@@ -161,7 +143,7 @@
       <workItem from="1730206125013" duration="3710000" />
       <workItem from="1730307598429" duration="1140000" />
       <workItem from="1730389950804" duration="3347000" />
-      <workItem from="1730467996174" duration="349000" />
+      <workItem from="1730467996174" duration="1111000" />
     </task>
     <task id="LOCAL-00001" summary="#">
       <option name="closed" value="true" />
@@ -499,7 +481,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730391949099</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="#">
+      <option name="closed" value="true" />
+      <created>1730468368828</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1730468368828</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Changed Height and Width of Wrestling and Football logos">
+      <option name="closed" value="true" />
+      <created>1730468414817</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1730468414817</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +518,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Added files of BebasNeue font" />
     <MESSAGE value="Added files of Kanit font" />
     <MESSAGE value="Added files of New Amsterdam font" />
     <MESSAGE value="Added files of Nunito font" />
@@ -541,11 +538,12 @@
     <MESSAGE value="Added football logo" />
     <MESSAGE value="Added first button of UFC" />
     <MESSAGE value="Added first button for UFC" />
-    <MESSAGE value="#" />
     <MESSAGE value="Added second button for wrestling" />
     <MESSAGE value="Added third button for football" />
     <MESSAGE value="Added fourth button for basketball" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added fourth button for basketball" />
+    <MESSAGE value="#" />
+    <MESSAGE value="Changed Height and Width of Wrestling and Football logos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Height and Width of Wrestling and Football logos" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
